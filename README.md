@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://pub.dev/packages/bootstrap_italia_icons">
-    <img src="https://github.com/PaoloGi/flutter_bootstrap_italia_icons/blob/main/bootstrap_italia_logo.png" alt="Bootstrap Italia logo" width="400">
+    <img src="https://raw.githubusercontent.com/PaoloGi/bootstrap_italia_icons/main/bootstrap_italia_logo.png" alt="Bootstrap Italia logo" width="400">
   </a>
 </p>
+
 
 <h3 align="center"><a href="https://pub.dev/packages/bootstrap_italia_icons">Bootstrap Italia Icons for Flutter</a></h3>
 
